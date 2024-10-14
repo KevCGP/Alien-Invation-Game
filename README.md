@@ -10,7 +10,7 @@ Python, Pygame
 
 
 ## Lessons Learned
-From this project, I learned how to manage projects with multiple files. I had to organize the project by refractoring code and managing file contents. One challenging part was ordering the logic of collissions. Once 2 images came into contact, I had to make sure a certain action occurred and then update the scores accordingly. 
+From this project, I learned how to manage projects with multiple files. I had to organize the project by refractoring code and managing file contents. One challenging part was ordering the logic of collisions. Once 2 images came into contact, I had to make sure a certain action occurred and then update the scores accordingly. 
 
 ```
 def _check_bullet_alien_collisions(self):
